@@ -1,0 +1,19 @@
+{
+  "name": "ae-particular-sim",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "pixi-filters": "^6.0.4",
+    "pixi.js": "^8.2.2"
+  }
+}
