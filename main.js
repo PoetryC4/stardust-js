@@ -11,4 +11,4 @@ document.querySelector('#app').innerHTML = `
   </div>
 `
 
-risingPixieInit().then(r => console.log("init ok"))
+fallingSnowflakeInit().then(r => console.log("init ok"))

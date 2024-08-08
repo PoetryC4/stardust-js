@@ -7,6 +7,24 @@
 
 ``./examples``下有部分使用例子
 
+#### 效果
+
+**烟花**: 使用了滤镜, 路径湍流, 辅助粒子...
+
+<img src="./example_pngs/fireworks.png" style="width: 200px">
+
+**移动粒子**: 使用了事件发射器, 重力模拟, 随时间变化的色相...
+
+<img src="./example_pngs/moving_particles.png" style="width: 200px">
+
+**精灵粒子**: 使用了粒子复制, 辅助粒子...
+
+<img src="./example_pngs/rising_pixie.png" style="width: 200px">
+
+**下雪**: 使用了Sprite, 粒子排斥...
+
+<img src="./example_pngs/snow.png" style="width: 200px">
+
 ##### 粒子类(Particle)
 
 粒子可以是Sprite(加载的图片), 也可以是图案(目前支持圆形(circle), 正方形(square), 凸多边形(polyfill), 多角形(polygon))
